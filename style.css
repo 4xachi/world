@@ -1522,7 +1522,7 @@ body {
 
 .cuadro-l__front {
   background-image: url("https://ucarecdn.com/ad0a45f7-35ad-4b3b-9761-2dfc4f8c44f4/20240303_064114.jpg");
-  
+  background-size: cover;
   
 }
 .cuadro-l__front::before {
@@ -1541,7 +1541,7 @@ body {
 }
 .cuadro-r__front {
   background-image: url("https://ucarecdn.com/c2d7309c-22fe-47cc-9a9d-ec6523b51191/20240301_183341.jpg");
-  
+  background-size: cover;
 }
 .cuadro-r__front::before {
   content: "";
